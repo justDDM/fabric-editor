@@ -1,6 +1,7 @@
 .editor {
   position: relative;
-  width: 100%;
+  width: calc(100% - 300px);
   height: 100%;
   overflow: hidden;
+  background-color: #f1f1f1;
 }
